@@ -5,8 +5,8 @@ import com.lti.model.Flight;
 public class ClientMain {
 
 	public static void main(String[] args) {
-		Flight flight = new Flight(1001, "BLR", "MAA");
-		System.out.println(flight.getFlightID()+ " " + flight.getSource()+ " "+flight.getDestination());
+//		Flight flight = new Flight(1001, "BLR", "MAA");
+//		System.out.println(flight.getFlightID()+ " " + flight.getSource()+ " "+flight.getDestination());
 		
 		//Test data
 		int num1=10;int num2=20;
